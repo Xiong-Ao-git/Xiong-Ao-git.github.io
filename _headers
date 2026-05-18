@@ -5,4 +5,4 @@
   Content-Type: application/octet-stream
 
 *.wasm
-  Content-Type: application/wasm
+  Content-Type: application/wasm    
