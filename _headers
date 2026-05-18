@@ -1,0 +1,8 @@
+/game/*
+  X-Content-Type-Options: nosniff
+
+/game/Build/*.unityweb
+  Content-Type: application/octet-stream
+
+*.wasm
+  Content-Type: application/wasm
