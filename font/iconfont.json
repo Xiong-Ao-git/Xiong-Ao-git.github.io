@@ -1,0 +1,72 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "48233477",
+      "name": "sl-oa2.0-Direction-Up-outlined",
+      "font_class": "a-sl-oa20-Direction-Up-outlined",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "48233478",
+      "name": "sl-oa2.0-Direction to the right-outlined",
+      "font_class": "a-sl-oa20-Directiontotheright-outlined",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "48233479",
+      "name": "sl-oa2.0-Direction-downward-outlined",
+      "font_class": "a-sl-oa20-Direction-downward-outlined",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "48233498",
+      "name": "操作日志",
+      "font_class": "caozuorizhi",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "48233499",
+      "name": "sl-oa2.0-Direction to the left-outlined",
+      "font_class": "a-sl-oa20-Directiontotheleft-outlined",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "48233502",
+      "name": "任务管理",
+      "font_class": "renwuguanli",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "48233508",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "48233510",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "48233512",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}
